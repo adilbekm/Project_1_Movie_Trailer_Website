@@ -13,9 +13,7 @@ PROJECT DETAILS
 
 File 'media.py' contains the definition of Movie class used to 
 initialize and store movies of my choice. The class has four 
-attributes: title, storyline, poster_url, and trailer_url;
-and a method called 'show_trailer' to launch a trailer in a 
-web browser at the URL provided in trailer_url.
+attributes: title, storyline, poster_url, and trailer_url.
 
 File 'fresh_tomatoes.py' contains code for creating an html 
 file to render the movies initialized in file 'my_movies.py'
