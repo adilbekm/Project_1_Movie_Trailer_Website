@@ -11,10 +11,10 @@ watch the trailers.
 
 HOW TO RUN THE APPLICATION
 
-To execute the application, install Python 2.7.9 or greater (you 
+To run the application, install Python 2.7.9 or greater (you 
 can download Python here: https://www.python.org/downloads/).
-From Python, run 'my_movies.py' and it will generate 
-'my_movie.html' file and open it in the default browser.
+From Python, open 'my_movies.py' and run (F5). This will generate 
+'my_movies.html' file and open it in the default browser.
 
 The generated HTML page will have show "Fresh Tomatoes Movies 
 Trailer" at the top and list 4 movies, each with a poster image, 
